@@ -1,0 +1,6 @@
+order_id,customer_name,product,quantity,price,order_date
+1,Sam,Phone,1,20000,10-01-2024
+2,Ravi,Laptop,1,50000,11-01-2024
+3,Anu,Headphones,2,2000,12-01-2024
+4,Raj,Phone,1,20000,13-01-2024
+5,Neha,Laptop,1,50000,14-01-2024
